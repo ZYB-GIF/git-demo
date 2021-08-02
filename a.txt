@@ -8,3 +8,4 @@ hello binbb!
 hello binbb!
 hello binbb!
 aupdate txt
+lhc save!
