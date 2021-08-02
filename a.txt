@@ -2,7 +2,7 @@ hello binbb!
 ihello binbb!
 hello binbb!
 hello binbb!
-ddddddhello
+master text
 hello binbb!
 hello binbb!
 hello binbb!
